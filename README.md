@@ -291,12 +291,17 @@ Level 4 — Root-Cause Direction
 Potential technical or operational causes are treated as hypotheses for future investigation, not conclusions from the current dataset.
 
 📁 Project Structure
+
 UPI_failure_Intelligence/
 │
 ├── data/
 │   ├── upi_transaction.csv
 │   ├── upi_transaction_cleaned.csv
 │   └── upi_transactions.db
+│
+├── screenshots/
+│   ├── Screenshot_2026-09-22 124525.png
+│   └── Screenshot_2026-09-22 130210.png
 │
 ├── python/
 │   ├── upi_cleaning.py
